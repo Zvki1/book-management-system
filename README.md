@@ -41,3 +41,10 @@ To run the program, compile the source code using a C compiler. Make sure you ha
 - The program supports basic operations for managing chapters, and additional features can be added based on specific requirements.
 
 Feel free to customize the program and add more functionalities according to your project needs.
+
+## Preview
+<img width="385" alt="image" src="https://github.com/Zvki1/book-management-system/assets/98493579/b904c1e9-27a5-4fd4-ab7c-48dc7a40c13d">
+
+<img width="846" alt="image" src="https://github.com/Zvki1/book-management-system/assets/98493579/2ec7a7c1-f649-42d8-86e4-4254d3f99ffc">
+
+
